@@ -71,12 +71,5 @@ Pour reproduire l'intégralité des graphiques, logs et résultats du rapport, e
 
 ---
 
-## 📊 Correspondance des Figures du Rapport
-
-* **`figures/mlp_baseline_curves.png`** $\rightarrow$ **Figure 8** du rapport (Courbes de Loss et Accuracy).
-* **`figures/comparison_num_hiddens.png`** $\rightarrow$ **Figure 6** du rapport (Précision de test selon `num_hiddens`).
-
----
-
 ## 👤 Auteur
 * **Étudiant :** EZZAHRAOUI El-Mehdi
